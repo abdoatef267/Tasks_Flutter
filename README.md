@@ -37,10 +37,6 @@ This project is a Flutter application that includes:
 
 ## 📸 Screenshot
 
-You can add a screenshot like this below (replace with your actual image):
-
-```markdown
 ![Welcome Screen](welcome.png)
 ![Login Screen](login.png)
 ![Register Screen](register.png)
-```
