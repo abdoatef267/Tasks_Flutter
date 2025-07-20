@@ -42,3 +42,9 @@ This file contains the **Sign Up Page UI**, which includes:
 
 - Navigation between pages is handled using the `Navigator` class.
 ---
+## 📷 App Preview
+
+Here is a preview of the login screen:
+
+![Login Screen](login.png)
+![Register Screen](register.png)
