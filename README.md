@@ -20,10 +20,10 @@ This is a basic Flutter project that demonstrates simple navigation, user interf
 - Custom colors and UI elements
 
 ## 📸 Screenshots
-![Login Page](login.png)
-![Signup Page](signup.png)
-![Home Page](home.png)
-![List Page](list.png)
+<img src="home.png" width="300"/>
+<img src="login.png" width="300"/>
+<img src="signup.png" width="300"/>
+<img src="list.png" width="300"/>
 
 
 ## 📁 Structure
