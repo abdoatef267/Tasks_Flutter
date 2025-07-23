@@ -32,12 +32,6 @@ Below are four screenshots showing the functionality of the app:
 ![Home Page](home.png)
 ![List Page](list.png)
 
-## 🚀 How to Run
-
-```bash
-flutter pub get
-flutter run -d chrome  # or your desired device
-```
 
 ## 📁 Structure
 
