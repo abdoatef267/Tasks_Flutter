@@ -20,13 +20,6 @@ This is a basic Flutter project that demonstrates simple navigation, user interf
 - Custom colors and UI elements
 
 ## 📸 Screenshots
-
-Below are four screenshots showing the functionality of the app:
-
-![Login Page](screenshots/login.png)
-![Signup Page](screenshots/signup.png)
-![Home Page](screenshots/home.png)
-![List Page](screenshots/list.png)
 ![Login Page](login.png)
 ![Signup Page](signup.png)
 ![Home Page](home.png)
