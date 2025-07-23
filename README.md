@@ -27,6 +27,10 @@ Below are four screenshots showing the functionality of the app:
 ![Signup Page](screenshots/signup.png)
 ![Home Page](screenshots/home.png)
 ![List Page](screenshots/list.png)
+![Login Page](login.png)
+![Signup Page](signup.png)
+![Home Page](home.png)
+![List Page](list.png)
 
 ## 🚀 How to Run
 
