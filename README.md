@@ -31,9 +31,8 @@ Custom light theme defined in `app_theme.dart` with a yellow primary color (`#FF
 
 > Place your screenshot here and name it something like `screenshot.png` in the root folder.
 
-```
 ![App Screenshot](screenshot.png)
-```
+
 
 
 Made with ❤️ in Flutter.
