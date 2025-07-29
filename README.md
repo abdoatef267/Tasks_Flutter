@@ -87,7 +87,7 @@ Reusable form validation methods used in both login and signup forms to keep val
 
 ## Demo Video
 
-[Demo Video](https://github.com/user-attachments/assets/f33f1308-3f26-47b6-aa36-f95699be1b48)  
+[Demo Video](https://github.com/user-attachments/assets/7317b587-dc56-4442-a381-9bf54d4d23a6)  
 (Click the link to watch the demo)
 
 ---
